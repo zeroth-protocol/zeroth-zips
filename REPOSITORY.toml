@@ -1,0 +1,5 @@
+name = "zeroth-zips"
+visibility = "public"
+classification = "PUBLIC-PROTOCOL"
+license = "CC0-1.0"
+description = "Zeroth Improvement Proposals (ZIPs): protocol changes, standards, and governance process."
